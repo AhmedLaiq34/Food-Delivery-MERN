@@ -1,0 +1,14 @@
+my-agent-project/
+node_modules/
+.env
+.env.local
+.env.production
+dist/
+build/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vscode/
+.idea/
+coverage/
